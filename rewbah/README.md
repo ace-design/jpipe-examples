@@ -7,7 +7,7 @@
 - Anne-Marie Pinna-Déry
 
 
-## Recruiting Older Adults (McMaster)
+## Justifying Practices: Recruiting Older Adults
 
 ### Off-the-shelf recruitment strategies
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-![](figures/phone.svg)
+![](figures/jd/phone.svg)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 <div align="center">
 
-![](figures/posters.svg)
+![](figures/jd/posters.svg)
 
 </div>
 
@@ -31,7 +31,7 @@
 
 <div align="center">
 
-![](figures/trusted.svg)
+![](figures/jd/trusted.svg)
 
 </div>
 
@@ -48,7 +48,7 @@ composition {
 
 <div align="center">
 
-![](figures/recruitement.svg)
+![](figures/jd/recruitement.svg)
 
 </div>
 
@@ -59,7 +59,7 @@ composition {
 
 <div align="center">
 
-![](figures/existing_directory.svg)
+![](figures/jd/existing_directory.svg)
 
 </div>
 
@@ -72,7 +72,7 @@ composition {
 ```
 <div align="center">
 
-![](figures/phone_reuse.svg)
+![](figures/jd/phone_reuse.svg)
 
 </div>
 
@@ -81,7 +81,7 @@ composition {
 
 <div align="center">
 
-![](figures/build_directory.svg)
+![](figures/jd/build_directory.svg)
 
 </div>
 
@@ -94,7 +94,7 @@ composition {
 ```
 <div align="center">
 
-![](figures/phone_build.svg)
+![](figures/jd/phone_build.svg)
 
 </div>
 
@@ -102,7 +102,7 @@ composition {
 
 <div align="center">
 
-![](figures/locations.svg)
+![](figures/jd/locations.svg)
 
 </div>
 
@@ -129,6 +129,9 @@ composition {
 
 <div align="center">
 
-![](figures/recruitement_final.svg)
+![](figures/jd/recruitement_final.svg)
 
 </div>
+
+
+## Organizing Practices: Regular versus Remediation
